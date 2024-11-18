@@ -883,3 +883,6 @@
 127.0.0.1 - - [18/Nov/2024:10:10:05 +0100] "GET /wp-json/simplystatic/v1/activity-log?blog_id=1&is_network_admin=undefined&_locale=user HTTP/1.1" 200 750
 127.0.0.1 - - [18/Nov/2024:10:10:05 +0100] "GET /wp-json/simplystatic/v1/export-log?page=1&per_page=25&blog_id=1&is_network_admin=undefined&_locale=user HTTP/1.1" 200 6376
 127.0.0.1 - - [18/Nov/2024:10:10:52 +0100] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 47
+127.0.0.1 - - [18/Nov/2024:10:11:52 +0100] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 47
+127.0.0.1 - - [18/Nov/2024:10:12:53 +0100] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 47
+127.0.0.1 - - [18/Nov/2024:10:13:54 +0100] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 47
