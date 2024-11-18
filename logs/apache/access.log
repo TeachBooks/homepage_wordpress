@@ -1035,3 +1035,4 @@
 127.0.0.1 - - [18/Nov/2024:10:32:55 +0100] "GET /wp-json/simplystatic/v1/activity-log?blog_id=1&is_network_admin=undefined&_locale=user HTTP/1.1" 200 594
 127.0.0.1 - - [18/Nov/2024:10:32:56 +0100] "GET /wp-json/simplystatic/v1/activity-log?blog_id=1&is_network_admin=undefined&_locale=user HTTP/1.1" 200 594
 127.0.0.1 - - [18/Nov/2024:10:32:56 +0100] "GET /wp-json/simplystatic/v1/export-log?page=1&per_page=25&blog_id=1&is_network_admin=undefined&_locale=user HTTP/1.1" 200 6376
+127.0.0.1 - - [18/Nov/2024:10:33:44 +0100] "POST /wp-admin/admin-ajax.php HTTP/1.1" 200 47
