@@ -64,3 +64,9 @@ AH00558: httpd: Could not reliably determine the server's fully qualified domain
 [Mon Nov 18 12:12:38.050772 2024] [mpm_event:notice] [pid 69848:tid 8672039552] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
 [Mon Nov 18 12:12:38.053583 2024] [core:notice] [pid 69848:tid 8672039552] AH00094: Command line: '/Users/mariannadiamanta/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/mariannadiamanta/Library/Application Support/Local/run/ovEjhbTR7/conf/apache/apache2.conf'
 [Mon Nov 18 12:17:29.720125 2024] [mpm_event:notice] [pid 69848:tid 8672039552] AH00491: caught SIGTERM, shutting down
+[Mon Dec 02 11:09:25.365699 2024] [core:warn] [pid 29188:tid 736] AH00098: pid file C:/Users/User/AppData/Roaming/Local/run/EA9nFy0gv/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 02 11:09:25.370747 2024] [mpm_winnt:notice] [pid 29188:tid 736] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Dec 02 11:09:25.370747 2024] [mpm_winnt:notice] [pid 29188:tid 736] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Dec 02 11:09:25.370747 2024] [core:notice] [pid 29188:tid 736] AH00094: Command line: 'C:\\Users\\User\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/User/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\User\\AppData\\Roaming\\Local\\run\\EA9nFy0gv\\conf\\apache\\apache2.conf'
+[Mon Dec 02 11:09:25.375753 2024] [mpm_winnt:notice] [pid 29188:tid 736] AH00418: Parent: Created child process 24612
+[Mon Dec 02 11:09:26.265348 2024] [mpm_winnt:notice] [pid 24612:tid 828] AH00354: Child: Starting 64 worker threads.
